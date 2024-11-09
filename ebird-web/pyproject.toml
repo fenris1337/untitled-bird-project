@@ -1,7 +1,8 @@
 [project]
 name = "ebird-web"
 version = "0.1.0"
-description = "Add your description here"
+description = "A library to scrape All About Birds for distinguishing features and characteristics of bird species.
+"
 readme = "README.md"
 authors = [
     { email = "liz.macconnachie@gmail.com" }
