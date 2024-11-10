@@ -1,0 +1,15 @@
+[project]
+name = "ebird-web"
+version = "0.1.0"
+description = "A library to scrape All About Birds for distinguishing features and characteristics of bird species.
+"
+readme = "README.md"
+authors = [
+    { email = "liz.macconnachie@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
